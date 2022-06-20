@@ -169,7 +169,7 @@ $json = json_decode($responseData, true);
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<img src="../  imagenes/altlogo-datafast.png">
+			<img src="../  imagenes/alt "logo"-datafast.png">
 		</div>
 		<div class="col-md-12">
 		<h1>Portal de compras</h1>
@@ -192,7 +192,7 @@ $json = json_decode($responseData, true);
 		</div>
 		<div class="row">
 		<div class="col-md-12 text-center">
-		<!-- <img src="../imagenes/marcas.png"> -->
+		<!-- <img src="../imagenes/marcas.png"> 
 		</div>
 	</div>
 	<p>Powered by <a href="http://www.datafast.com.ec/" target="_blank">Datafast</a></p>	
